@@ -1,0 +1,6 @@
+pandas
+requests
+pyyaml
+python-dotenv
+reportlab
+matplotlib
