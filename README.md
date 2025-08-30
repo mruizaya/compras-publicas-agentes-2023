@@ -4,4 +4,4 @@ Este proyecto descarga y normaliza datos de procesos de subasta inversa en Ecuad
 ## Ejecución
 1. Crear `.env` con `OPENAI_API_KEY=...`
 2. Instalar dependencias: `pip install -r requirements.txt`
-3. Ejecutar: `python run.py --year 2023`
+3. Ejecutar: `python final_agent.py`
